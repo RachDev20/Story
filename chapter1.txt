@@ -1,1 +1,2 @@
 Hello my name is Rachid and I am a web developer 
+I work on web and JavaScript Tachnologies such as MERN a Valilla JS
